@@ -1,0 +1,6 @@
+id,type,code,byte_value,description
+1,charge_finish,64,40,1
+2,charge_finish,65,41,2
+69,charge_finish,132,84,3
+70,charge_finish,133,85,4
+71,charge_finish,134,86,5
